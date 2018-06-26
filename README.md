@@ -1,7 +1,7 @@
 # Statistics-Lab
-This consists of the lab tasks performed under statistics course using rlab.
+### This consists of the lab tasks performed under statistics course using rlab.
 
-### This was a 12 week course which included the following tasks per lab
+#### This was a 12 week course which included the following tasks per lab
 1. Basic Operations in R
 2. Frequency Table and Frequency Polygon construction
 3. PMF and CDF
